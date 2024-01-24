@@ -5,3 +5,4 @@ print("Vous vous appelez " + nom + ", vous avez" + age + " ans")
 
 
 
+.
